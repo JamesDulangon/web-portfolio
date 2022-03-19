@@ -36,6 +36,7 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
 import safespace from '../assets/Safespace_FlutterFire.png'
+import sweatTracker from '../assets/portfolio_webapp_preview.png'
 
 export default {
   email,
@@ -71,5 +72,6 @@ export default {
   nb,
   skype,
   spotify,
-  safespace
+  safespace,
+  sweatTracker,
 };
