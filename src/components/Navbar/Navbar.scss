@@ -21,7 +21,7 @@
 
   img {
     width: 105px;
-    height: 30px;
+    height: 35px;
 
     @media screen and (min-width: 2000px) {
       width: 180px;
@@ -40,15 +40,15 @@
 
   li {
     // changed to 2
-    margin: 0 2rem;
+    margin: 0 3rem;
     cursor: pointer;
 
     flex-direction: column;
 
     //might remove this
     div {
-      width: 5px;
-      height: 5px;
+      width: 0px;
+      height: 0px;
       background: transparent;
       border-radius: 50%;
 
