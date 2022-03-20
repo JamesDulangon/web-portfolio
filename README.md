@@ -7,3 +7,5 @@
 
 ![image](https://user-images.githubusercontent.com/72920953/159163103-9bbf4437-e054-436c-9d08-04849aed4cfd.png)
 
+## Live app
+https://jamesdulangon-portfolio.netlify.app/
